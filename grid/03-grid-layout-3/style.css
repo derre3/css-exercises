@@ -26,7 +26,7 @@
 }
 
 .sidebar {
-  background-color: #FF7755;
+  background-color: #c50208;
 }
 
 .sidebar .photo {
@@ -37,7 +37,6 @@
   border-radius: 10px;
 }
 
-
 .sidebar .side-content {
   background-color: white;
   color: black;
@@ -46,7 +45,7 @@
 }
 
 .nav {
-  background-color: #FF7755;
+  background-color: #c50208;
 }
 
 .nav ul li {
@@ -66,7 +65,7 @@
 }
 
 .article .card {
-  background-color: #FFFFFF;
+  background-color: #ffffff;
   color: black;
   text-align: center;
 }
@@ -88,13 +87,13 @@
 
 .footer p {
   font-size: 13px;
-  font-weight: normal;  
+  font-weight: normal;
 }
 
 .container {
   display: grid;
   gap: 4px;
-  
+
   grid-template-columns: 1fr 4fr;
 }
 
@@ -112,7 +111,6 @@
   gap: 5em;
   grid-template-columns: repeat(4, 1fr);
 }
-
 
 .nav > ul {
   display: grid;
